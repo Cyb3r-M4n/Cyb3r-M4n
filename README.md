@@ -46,7 +46,7 @@
 ![Mikrotik](https://img.shields.io/badge/Mikrotik-CC0000?style=for-the-badge&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_3%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0xAM0GUS)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_2%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0xAM0GUS)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-kkg--sec.netlify.app-00b4d8?style=for-the-badge&logo=netlify&logoColor=white)](https://kkg-sec.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gaston--kowou-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaston-kowou)
