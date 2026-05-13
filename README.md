@@ -1,3 +1,5 @@
+<div align="center">
+
 ```
  █████╗ ███╗   ███╗ ██████╗  ██████╗ ██╗   ██╗███████╗
 ██╔══██╗████╗ ████║██╔═══██╗██╔════╝ ██║   ██║██╔════╝
@@ -7,25 +9,22 @@
 ╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝  ╚═════╝  ╚═════╝ ╚══════╝
 ```
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=IT+Technician+%7C+Pentester+%7C+CTF+Player+%F0%9F%87%B9%F0%9F%87%AC;Breaking+things+legally+since+2024+%F0%9F%94%90;TryHackMe+Top+3%25+%7C+NCTF+Togo+2025+Finalist;Always+learning.+Always+breaking.+Always+fixing.)](https://git.io/typing-svg)
+
+---
+
 `0xAMOGUS@github:~$` &nbsp; IT Technician · Pentester · CTF Player · Network Guy 🇹🇬
 
-↳ 🔴 Red Team — Pentest · Web Exploitation · CTF (pwn · stego · web · OSINT · crypto)  
-↳ 🔵 Blue Team — SIEM (Wazuh) · Network Monitoring · Threat Analysis · Incident Response  
-↳ 📡 Network — VLAN · DHCP · TCP/IP · Cisco · Mikrotik  
-↳ Always learning, breaking things (legally), and fixing them 🔐  
+↳ 🔴 **Red Team** — Pentest · Web Exploitation · CTF (pwn · stego · web · OSINT · crypto)  
+↳ 🔵 **Blue Team** — SIEM (Wazuh) · Network Monitoring · Threat Analysis · Incident Response  
+↳ 📡 **Network** — VLAN · DHCP · TCP/IP · Cisco · Mikrotik  
+↳ 🎓 **Certs** — Cisco · Fortinet NSE1/2/3 · Hackviser CAPT · TCM · ANSSI · OSINT.fr  
+
+> *Étudiant en cybersécurité à Lomé, Togo. Je construis mes compétences à travers des CTF,*  
+> *des labs virtuels et des projets réels — du pentest à la défense des systèmes.*  
+> *Finaliste NCTF Togo 2025 🏆 · TryHackMe Top 3% 🎯*
 
 ---
-
-**// achievements**
-
-🏆 Finaliste – NCTF Togo 2025  
-🎯 TryHackMe – Top 3% worldwide  
-🔴 Hackviser – Certified Associate Penetration Tester (CAPT)  
-
----
-
-**// os & distros**
-
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -47,13 +46,15 @@
 ![Mikrotik](https://img.shields.io/badge/Mikrotik-CC0000?style=for-the-badge&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
----
-
-**// platforms**
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_2%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0xAM0GUS)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_3%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0xAM0GUS)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kkg--sec.netlify.app-00b4d8?style=for-the-badge&logo=netlify&logoColor=white)](https://kkg-sec.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gaston--kowou-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaston-kowou)
 
 ---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cyb3r-M4n&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFF7&icon_color=00FFF7&text_color=666666&hide=stars)
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=Cyb3r-M4n&color=00fff7&style=flat-square&label=profile+views)
+
+</div>
