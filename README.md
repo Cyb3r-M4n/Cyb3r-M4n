@@ -20,8 +20,8 @@
  📡 **Network** — VLAN · DHCP · TCP/IP · Cisco · Mikrotik  
  🎓 **Certs** — Cisco · Fortinet NSE1/2/3 · Hackviser CAPT · TCM · ANSSI · OSINT.fr  
 
-> *Étudiant en cybersécurité à Lomé, Togo. Je construis mes compétences à travers des CTF,*  
-> *des labs virtuels et des projets réels — du pentest à la défense des systèmes.*  
+> *Étudiant en maintenance informatique & réseaux, passionné par la cybersécurité.*  
+> *Je construis mes compétences via des CTF, labs virtuels et projets réels — du pentest à la défense des systèmes.*  
 > *Finaliste NCTF Togo 2025 🏆 · TryHackMe Top 2% 🎯*
 
 ---
