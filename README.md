@@ -9,20 +9,20 @@
 ╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝  ╚═════╝  ╚═════╝ ╚══════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=IT+Technician+%7C+Pentester+%7C+CTF+Player+%F0%9F%87%B9%F0%9F%87%AC;Breaking+things+legally+since+2024+%F0%9F%94%90;TryHackMe+Top+3%25+%7C+NCTF+Togo+2025+Finalist;Always+learning.+Always+breaking.+Always+fixing.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=IT+Technician+%7C+Pentester+%7C+CTF+Player+%F0%9F%87%B9%F0%9F%87%AC;Breaking+things+legally+since+2024+%F0%9F%94%90;TryHackMe+Top+2%25+%7C+NCTF+Togo+2025+Finalist;Always+learning.+Always+breaking.+Always+fixing.)](https://git.io/typing-svg)
 
 ---
 
-`0xAMOGUS@github:~$` &nbsp; IT Technician · Pentester · CTF Player · Network Guy 🇹🇬
+`0xAMOGUS@github:~$` &nbsp; IT Technician · Pentester · CTF Player · Network Guy
 
-↳ 🔴 **Red Team** — Pentest · Web Exploitation · CTF (pwn · stego · web · OSINT · crypto)  
-↳ 🔵 **Blue Team** — SIEM (Wazuh) · Network Monitoring · Threat Analysis · Incident Response  
-↳ 📡 **Network** — VLAN · DHCP · TCP/IP · Cisco · Mikrotik  
-↳ 🎓 **Certs** — Cisco · Fortinet NSE1/2/3 · Hackviser CAPT · TCM · ANSSI · OSINT.fr  
+ 🔴 **Red Team** — Pentest · Web Exploitation · CTF (pwn · stego · web · OSINT · crypto)  
+ 🔵 **Blue Team** — SIEM (Wazuh) · Network Monitoring · Threat Analysis · Incident Response  
+ 📡 **Network** — VLAN · DHCP · TCP/IP · Cisco · Mikrotik  
+ 🎓 **Certs** — Cisco · Fortinet NSE1/2/3 · Hackviser CAPT · TCM · ANSSI · OSINT.fr  
 
 > *Étudiant en cybersécurité à Lomé, Togo. Je construis mes compétences à travers des CTF,*  
 > *des labs virtuels et des projets réels — du pentest à la défense des systèmes.*  
-> *Finaliste NCTF Togo 2025 🏆 · TryHackMe Top 3% 🎯*
+> *Finaliste NCTF Togo 2025 🏆 · TryHackMe Top 2% 🎯*
 
 ---
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
