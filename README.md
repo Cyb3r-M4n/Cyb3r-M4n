@@ -10,12 +10,12 @@
 ```
 ### `0xAMOGUS@github:~$ whoami`
 
-Étudiant en cybersécurité & réseaux 🇹🇬 · Pentester en formation · CTF player
+IT Technician · Pentester · Network · CTF player
 
 - 🔴 Red Team : Pentest · Web Exploitation · CTF
 - 🔵 Blue Team : SIEM (Wazuh) · Network Monitoring · Threat Analysis
-- 📡 Réseaux : VLAN · DHCP · TCP/IP · Cisco
-- 🏆 Finaliste NCTF Togo 2025 · TryHackMe Top 3%
+- 📡 Réseaux : VLAN · DHCP · TCP/IP · Cisco · Mikrotik
+- 🏆 Finaliste NCTF Togo 2025 · T
 
 ---
 
