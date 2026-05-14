@@ -15,10 +15,9 @@
 
 `0xAMOGUS@github:~$` &nbsp; IT Technician · Pentester · CTF Player · Network Guy
 
- 🔴 **Red Team** — Pentest · Web Exploitation · CTF (pwn · stego · web · OSINT · crypto)  
+ 🔴 **Red Team** — Pentest · Web Exploitation · CTF (rev· stego · web · OSINT · forensics · Boot2root)  
  🔵 **Blue Team** — SIEM (Wazuh) · Network Monitoring · Threat Analysis · Incident Response  
- 📡 **Network** — VLAN · DHCP · TCP/IP · Cisco · Mikrotik  
- 🎓 **Certs** — Cisco · Fortinet NSE1/2/3 · Hackviser CAPT · TCM · ANSSI · OSINT.fr  
+ 📡 **Network** — VLAN · DHCP · TCP/IP · Cisco · Mikrotik   
 
 > *Étudiant en maintenance informatique & réseaux, passionné par la cybersécurité.*  
 > *Je construis mes compétences via des CTF, labs virtuels et projets réels — du pentest à la défense des systèmes.*  
