@@ -19,9 +19,8 @@
  🔵 **Blue Team** — SIEM (Wazuh) · Network Monitoring · Threat Analysis · Incident Response  
  📡 **Network** — VLAN · DHCP · TCP/IP · Cisco · Mikrotik   
 
-> *Étudiant en maintenance informatique & réseaux, passionné par la cybersécurité.*  
-> *Je construis mes compétences via des CTF, labs virtuels et projets réels — du pentest à la défense des systèmes.*  
-> *Finaliste NCTF Togo 2025 🏆 · TryHackMe Top 2% 🎯*
+> *IT & network technician, passionate about cybersecurity.*  
+> *I build my skills through CTFs, virtual labs and real projects — from penetration testing to systems defense.*  
 
 ---
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
