@@ -9,11 +9,11 @@
 ╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝  ╚═════╝  ╚═════╝ ╚══════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=Junior+Cybersecurity+Analyst+%7C+Pentest%7C+CTF+Player+%F0%9F%87%B9%F0%9F%87%AC;Breaking+things+legally+%F0%9F%94%90;TryHackMe+Top+2%25+%7C+NCTF+Togo+2025+Finalist;Always+learning.+Always+breaking.+Always+fixing.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=Junior+Cybersecurity+Analyst+%7C+Pentest+%7C+CTF+Player+%F0%9F%87%B9%F0%9F%87%AC;Breaking+things+legally+%F0%9F%94%90;TryHackMe+Top+2%25+%7C+NCTF+Togo+2025+Finalist;Always+learning.+Always+breaking.+Always+fixing.)](https://git.io/typing-svg)
 
 ---
 
-`AMOGUS@github:~$` &nbsp; Junior Cybersecurity Analyst · CTF Player · Network Guy
+`AMOGUS@github:~$` &nbsp; Junior Cybersecurity Analyst · Pentest · CTF Player · Network Guy
 
  🔴 **Red Team** — Pentest · Web Exploitation · CTF (rev· stego · web · OSINT · forensics · Boot2root)  
  🔵 **Blue Team** — SIEM (Wazuh) · Network Monitoring · Threat Analysis · Incident Response  
