@@ -13,7 +13,7 @@
 
 ---
 
-`AMOGUS@github:~$` &nbsp; Junior Cybersecurity Analyst · Pentest · CTF Player · Network Guy
+`AMOGUS@github:~$` &nbsp; Penetration Tester · CTF Player · Network Guy
 
  🔴 **Red Team** — Pentest · Web Exploitation · CTF (rev· stego · web · OSINT · forensics · Boot2root)  
  🔵 **Blue Team** — SIEM (Wazuh) · Network Monitoring · Threat Analysis · Incident Response  
