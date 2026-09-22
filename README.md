@@ -13,13 +13,11 @@
 
 ---
 
-`AMOGUS@github:~$` &nbsp; Penetration Tester · CTF Player · Network Guy
+`AMOGUS@github:~$` &nbsp; Penetration Tester · CTF Player
 
  🔴 **Red Team** — Pentest · Web Exploitation · CTF (rev· stego · web · OSINT · forensics · Boot2root)  
- 🔵 **Blue Team** — SIEM (Wazuh) · Network Monitoring · Threat Analysis · Incident Response  
- 📡 **Network** — VLAN · DHCP · TCP/IP · Cisco · Mikrotik   
+ 🔵 **Blue Team** — SIEM (Wazuh) · Network Monitoring · Threat Analysis · Incident Response   
 
-> *IT & network technician, passionate about cybersecurity.*  
 > *I build my skills through CTFs, virtual labs and real projects — from penetration testing to systems defense.*  
 
 ---
