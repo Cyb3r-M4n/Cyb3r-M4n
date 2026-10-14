@@ -15,7 +15,7 @@
 
 `AMOGUS@github:~$` &nbsp; Penetration Tester · CTF Player
 
- 🔴 **Red Team** — Pentest · Web Exploitation · CTF (rev· stego · web · OSINT · forensics · Boot2root)  
+ 🔴 **Red Team** — Pentest · Web Exploitation · CTF (rev · web · OSINT · Boot2root)  
  🔵 **Blue Team** — SIEM (Wazuh) · Network Monitoring · Threat Analysis · Incident Response   
 
 > *I build my skills through CTFs, virtual labs and real projects — from penetration testing to systems defense.*  
